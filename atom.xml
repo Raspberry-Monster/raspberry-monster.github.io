@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.raspberrymonster.top</id>
+    <id>https://raspberry-monster.github.io</id>
     <title>Raspberry的魔法小窝</title>
-    <updated>2020-08-29T17:20:06.114Z</updated>
+    <updated>2020-08-29T17:21:54.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.raspberrymonster.top"/>
-    <link rel="self" href="https://blog.raspberrymonster.top/atom.xml"/>
+    <link rel="alternate" href="https://raspberry-monster.github.io"/>
+    <link rel="self" href="https://raspberry-monster.github.io/atom.xml"/>
     <subtitle>欢迎来到Raspberry的魔法国度！</subtitle>
-    <logo>https://blog.raspberrymonster.top/images/avatar.png</logo>
-    <icon>https://blog.raspberrymonster.top/favicon.ico</icon>
+    <logo>https://raspberry-monster.github.io/images/avatar.png</logo>
+    <icon>https://raspberry-monster.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Raspberry的魔法小窝</rights>
     <entry>
         <title type="html"><![CDATA[开学了!]]></title>
-        <id>https://blog.raspberrymonster.top/post/kai-xue-liao/</id>
-        <link href="https://blog.raspberrymonster.top/post/kai-xue-liao/">
+        <id>https://raspberry-monster.github.io/post/kai-xue-liao/</id>
+        <link href="https://raspberry-monster.github.io/post/kai-xue-liao/">
         </link>
         <updated>2020-08-29T17:09:13.000Z</updated>
         <content type="html"><![CDATA[<p>经过一个半月的暑假 终于迎来了开学季<br>
