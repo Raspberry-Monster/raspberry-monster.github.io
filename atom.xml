@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.github.com</id>
-    <title>Gridea</title>
-    <updated>2020-08-29T12:32:31.667Z</updated>
+    <title>Raspberry的魔法小窝</title>
+    <updated>2020-08-29T12:36:09.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.github.com"/>
     <link rel="self" href="https://www.github.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>欢迎来到Raspberry的魔法国度！</subtitle>
     <logo>https://www.github.com/images/avatar.png</logo>
     <icon>https://www.github.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Raspberry的魔法小窝</rights>
 </feed>
