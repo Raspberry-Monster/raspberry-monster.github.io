@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.raspberrymonster.top</id>
     <title>Raspberry的魔法小窝</title>
-    <updated>2020-08-30T02:35:47.685Z</updated>
+    <updated>2020-08-31T03:26:10.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.raspberrymonster.top"/>
     <link rel="self" href="https://blog.raspberrymonster.top/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.raspberrymonster.top/images/avatar.png</logo>
     <icon>https://blog.raspberrymonster.top/favicon.ico</icon>
     <rights>All rights reserved 2020, Raspberry的魔法小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[Magicial Mirai 2020图片提取系列]]></title>
+        <id>https://blog.raspberrymonster.top/post/magicial-mirai-2020-tu-pian-ti-qu-xi-lie/</id>
+        <link href="https://blog.raspberrymonster.top/post/magicial-mirai-2020-tu-pian-ti-qu-xi-lie/">
+        </link>
+        <updated>2020-08-31T03:14:44.000Z</updated>
+        <content type="html"><![CDATA[<p>官方在今天早上公布了 2020年魔法未来冬季主题的主视觉图，感到非常感动的我便直接冲上他们官网，把他们的图给提咯（这些图不会用做商业用途）废话不多说 上图：<br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844140172.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844242402.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844173570.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844179852.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844185753.jpg" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844253049.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844259931.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844272812.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844279007.png" alt="" loading="lazy"><br>
+<img src="https://blog.raspberrymonster.top/post-images/1598844298091.jpg" alt="" loading="lazy"><br>
+（MainVisual在夏中被分成了两块，在冬中被分成了三块，其中还有一块是1x1400的变态分辨率，提的我真蛋疼（C社在2018年开始这么搞的，在那之前所有图都是一整块，那才叫做舒服。现在提出来还要用PS或者是画图拼接起来 XDD）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开学了!]]></title>
         <id>https://blog.raspberrymonster.top/post/kai-xue-liao/</id>
